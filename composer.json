@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kibiubiu\\": "src/Kibiubiu"
+            "Kibiubiu\\": "src/"
         }
     }
 }
