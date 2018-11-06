@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kibiubiu\\Queue\\": "src/Kibiubiu/Queue"
+            "Kibiubiu\\": "src/Kibiubiu"
         }
     }
 }
