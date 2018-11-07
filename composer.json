@@ -1,20 +1,23 @@
 {
-    "name": "kibiubiu/queue",
-    "description": "kibiubiu queue",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "xxs",
-            "email": "550419038@qq.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Kibiubiu\\": "src/"
-        }
+  "name": "kibiubiu/queue",
+  "description": "kibiubiu queue",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xxs",
+      "email": "550419038@qq.com"
     }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "files": [
+      "src/Functions.php"
+    ],
+    "psr-4": {
+      "Kibiubiu\\": "src/"
+    }
+  }
 }
