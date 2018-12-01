@@ -1,8 +1,7 @@
-Kibiubiu/J, PHP Message Queue
+Kibiubiu/J, NO
 =======================
 
-Kibiubiu/queue is a PHP Message Queue that makes it easy to consumption message and
-trivial to integrate with web services.
+NO
 
 ## Installing Kibiubiu/J
 
