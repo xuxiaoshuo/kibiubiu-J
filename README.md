@@ -1,12 +1,12 @@
-Kibiubiu/queue, PHP Message Queue
+Kibiubiu/J, PHP Message Queue
 =======================
 
 Kibiubiu/queue is a PHP Message Queue that makes it easy to consumption message and
 trivial to integrate with web services.
 
-## Installing Kibiubiu/queue
+## Installing Kibiubiu/J
 
-The recommended way to install Kibiubiu/queue is through
+The recommended way to install Kibiubiu/J is through
 [Composer](http://getcomposer.org).
 
 ```bash
@@ -17,7 +17,7 @@ curl -sS https://getcomposer.org/installer | php
 Next, run the Composer command to install the latest stable version of Kibiubiu/queue:
 
 ```bash
-php composer.phar require Kibiubiu/queue
+php composer.phar require Kibiubiu/J
 ```
 
 After installing, you need to require Composer's autoloader:
@@ -26,7 +26,7 @@ After installing, you need to require Composer's autoloader:
 require 'vendor/autoload.php';
 ```
 
-You can then later update Kibiubiu/queue using composer:
+You can then later update Kibiubiu/J using composer:
 
  ```bash
 composer.phar update
